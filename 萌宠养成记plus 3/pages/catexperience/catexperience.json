@@ -1,0 +1,24 @@
+{
+  "navigationBarBackgroundColor": "#f38712",
+  "navigationBarTitleText": "小猫成长",
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "List": [
+      {
+        "pagePath": "pages/catexperience",
+        "iconPath": "image/icon/cat.icon",
+        "selectedIconPath": "pages/image/cat.icon",
+        "text": "照料"
+      },
+      {
+        "pagePath": "pages/catdialogue",
+        "iconPath": "image/icon/full.icon",
+        "selectedIconPath": "image/icon/empty.icon",
+        "text": "聊天"
+      }
+    ]
+  }
+}

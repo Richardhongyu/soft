@@ -1,0 +1,6 @@
+<view class="container">
+  <image class="avatar" src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/XylMSUalIBASmW7kTGE4Omja6kS9PgHvGUBokJL2EBQ!/r/dPMAAAAAAAAA"></image>
+  <view catchtap="onTapJump" class="button">
+    <text class="button-container">开启我的萌宠之旅</text>
+  </view>
+</view>

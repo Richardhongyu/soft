@@ -1,0 +1,80 @@
+/* pages/cat/cat.wxss */
+.robbitFeature{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fdc7fa;
+}
+.robbitName{
+  margin-top: 0rpx;
+  font-size: 55rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.robbitPicture{
+  margin-top: 5rpx;
+  width: 360rpx;
+  height: 450rpx;
+}
+.robbitTip{
+  margin-top: 5rpx;
+  font-size: 40rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.robbitSkill-container{
+  margin-top: 20rpx;
+  border: 2px solid #ffffff;
+  width:700rpx;
+  height:240rpx;
+  border-radius: 10px;
+  text-align: left;
+}
+.robbitSkill1{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.robbitSkill2{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.robbitSkill3{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.robbitSkill4{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.robbitchooseButton{
+  margin-top: 28rpx;
+  border: 5px solid #ffffff;
+  width:150rpx;
+  height:150rpx;
+  border-radius: 100%;
+  text-align: center;
+}
+.robbitbuttonText{
+  line-height: 140rpx;
+  font-size: 34rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.quitRobbit{
+  color: #000000;
+  font-size: 26rpx;
+  margin-top: 5rpx;
+  text-decoration: underline;
+  font-weight: bold;
+}
+page{
+  background-color: #fdc7fa;
+}

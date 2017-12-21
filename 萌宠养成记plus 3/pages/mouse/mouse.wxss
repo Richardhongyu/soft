@@ -1,0 +1,80 @@
+/* pages/cat/cat.wxss */
+.mouseFeature{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #dadcdc;
+}
+.mouseName{
+  margin-top: 0rpx;
+  font-size: 55rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.mousePicture{
+  margin-top: 5rpx;
+  width: 360rpx;
+  height: 450rpx;
+}
+.mouseTip{
+  margin-top: 5rpx;
+  font-size: 40rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.mouseSkill-container{
+  margin-top: 20rpx;
+  border: 2px solid #ffffff;
+  width:700rpx;
+  height:240rpx;
+  border-radius: 10px;
+  text-align: left;
+}
+.mouseSkill1{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.mouseSkill2{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.mouseSkill3{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.mouseSkill4{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.mousechooseButton{
+  margin-top: 28rpx;
+  border: 5px solid #ffffff;
+  width:150rpx;
+  height:150rpx;
+  border-radius: 100%;
+  text-align: center;
+}
+.mousebuttonText{
+  line-height: 140rpx;
+  font-size: 34rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.quitMouse{
+  color: #000000;
+  font-size: 26rpx;
+  margin-top: 5rpx;
+  text-decoration: underline;
+  font-weight: bold;
+}
+page{
+  background-color: #dadcdc;
+}

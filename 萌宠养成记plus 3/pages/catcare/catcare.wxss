@@ -1,0 +1,44 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+page{
+  background-color: #f38712;
+}
+.successTip{
+  margin-top: 280rpx;
+  font-size: 60rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.agreeButton{
+  margin-top: 100rpx;
+  border: 1px solid #ffffff;
+  width:350rpx;
+  height:85rpx;
+  border-radius: 10px;
+  text-align: center;
+}
+.agreeTip{
+  margin-top: 150rpx;
+  font-size: 40rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+  color: #ffffff;
+}
+.disagreeButton{
+  margin-top: 50rpx;
+  border: 1px solid #ffffff;
+  width:350rpx;
+  height:85rpx;
+  border-radius: 10px;
+  text-align: center;
+}
+.disagreeTip{
+  margin-top: 150rpx;
+  font-size: 40rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+  color: #ffffff;
+}

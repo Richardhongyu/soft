@@ -1,0 +1,21 @@
+<view class="containerPicture">
+  <swiper class="turn1" indicator-dots="true"autoplay="true"interval="5000">
+    <swiper-item>
+      <image catchtap="onTapJumpCat" src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/OW*RfTsrnPySuVRHrkgnEEdCYo7m4mb*GWZZbKtR0qk!/r/dD8BAAAAAAAA"/>
+    </swiper-item>
+    <swiper-item>
+      <image catchtap="onTapJumpDog" src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/bmp.cDZuJHVk9HGbJ1LwKVSeJWpUHd.szjkUjnLM4O4!/r/dPIAAAAAAAAA"/>      
+    </swiper-item>    
+    <swiper-item>
+      <image catchtap="onTapJumpMouse" src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/rUwl8UFTxRYjCXRfWjVp*9STcmnwQDpkq8mCXSoLPxA!/r/dPMAAAAAAAAA"/>
+    </swiper-item>
+    <swiper-item>
+      <image catchtap="onTapJumpRobbit" src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/6g.*Yh21V1RuZi2UJboP9YprRSehM*wOwbZoerBbrp8!/r/dPMAAAAAAAAA"/>
+    </swiper-item>
+  </swiper>
+</view>
+<view class="buttonTip">
+  <view class="buttonTip-container">
+    <text class="buttonTip-text">点击图片选择你的宠物</text>
+  </view>
+</view>

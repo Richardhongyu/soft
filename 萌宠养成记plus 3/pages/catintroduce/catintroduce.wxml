@@ -1,0 +1,24 @@
+<view class="body">
+  <text class="title">猫奴日常</text>
+  <swiper class="turn1" indicator-dots="true"autoplay="true"interval="2000">
+    <swiper-item>
+      <image src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/FQqKEJFBBNVlj4nD2ygWf2qZ4x.L7DzmWUnEGBD4Rcc!/r/dPMAAAAAAAAA"/>
+    </swiper-item>
+    <swiper-item>
+      <image src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/j09StHY20X4pTMzCkmdO4yP9Tl8wNZVodo5vLmEe.GM!/r/dPIAAAAAAAAA"/>      
+    </swiper-item>    
+    <swiper-item>
+      <image src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/Yzq8LeVBzgbePZtHhGujuZWQHD*lvZfkMxiZ56wimNk!/r/dPMAAAAAAAAA"/>
+    </swiper-item>
+    <swiper-item>
+      <image src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/kYTeo4XeyIHbDenj0CbQcNjuXtqYIuJLpZBUAsU*9O8!/r/dD8BAAAAAAAA"/>
+    </swiper-item>
+    <swiper-item>
+      <image src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/r5m9fk*azmP0vN4dtBX9JT7uIzzVLZekf7Ggc3dmqSo!/r/dPIAAAAAAAAA"/>
+    </swiper-item>
+  </swiper>
+  <view class="tipbody">
+    <text class="Tip">养猫小贴士\n</text>
+    <text>1、在猫咪心中，你只是并且永远只是它的室友。\n2、不要和猫咪的自然属性作对，比如它喜欢巡视，喜欢狩猎，有强烈的喜好和厌恶。请不要试图改变它的自然本性。\n3、猫咪的习性第一点，喜欢站在制高点巡视自己的领地。所以你的猫会喜欢爬上书架最高点。如果你抱怨它总是弄倒最高处架子上的罐子，请将罐子挪开。\n4、所以，最好在家中墙壁上钉上跳板，让猫咪能自由的上到最高点。猫爬架那种小家伙对他们来说是不够的。\n5、猫咪的习性第三点，猫咪确定安全感的方法，在自己的活动区域里的突出物（在丛林中就是大树）留下抓痕。一是视觉上的安全感，一是嗅觉上的安全感。所以，猫咪才会喜欢抓沙发，抓家具。\n6、所以，防止猫咪抓沙发，抓家具的方法：在家具外围放猫抓板。因为在自然界中它就是一棵树抓到底的，所以，猫抓板要足够高和大，是猫咪整个身长的高度再多出三十公分。木头材质。猫抓板要不只一个。地上也可以放瓦楞纸板，让它抓。\n7、猫咪是喜欢干净的动物。他本身就会掩埋粪便，一是避免传染，二是避免天敌发现自己的踪迹。如果猫咪不愿意掩埋粪便，或者两只爪子扒在猫砂盆上，不愿意下去，或者便完出来甩手，立刻逃离。\n8、压根不要想处罚猫咪。处罚，是你把自己当成主人。有处罚这个想法，意味着你将父母与小孩的模式挪用到你和猫咪的关系中。会处罚小孩的人，才会处罚小狗。你是为了什么而养猫？为了爱它们，还是仅仅为了填补内心的空缺？如果你是为了爱猫，请记得处罚对猫咪几乎完全没用，奖励才是好办法。\n9、猫咪会有自发的攻击行为。比如你一回家，猫咪立刻奔上来咬你的手或者脚。怎么办？只能避免。抚摸猫咪时，当它毛发直竖，耳朵变动，眼神发愣时，它要开始攻击你，立刻将它放掉，走开。回家时它总是跳出来咬你，因为你叫痛很好玩，所以显示这是一次无效攻击。穿上胶靴，不痛不叫不反应，它就会放弃。\n10、没有一只猫是不渴望自由的。所以，猫要遛。\n11、遛猫和遛狗不一样，遛猫其实是它遛你。随便跟着它，它走就走，它停就停。它瘫倒，累了，就回家。一种猫是喜欢在草丛中，一种是喜欢上树上墙头。没关系，等它就好。\n12、遛猫请先准备一件遛猫衣。给它穿上，遛猫衣的背上开口套绳。可以自己做，用一只袖子一根绳子。\n13、正确抚摸一只猫的方法：猫就像一个美丽高傲的女人，上来就摸胸摸屁股，是不行的。将它整只抱在怀里，轻轻抚摸它的脸颊，然后从头到尾顺毛摸，力度要轻，轻轻打圈。不要抚摸太久，你摸一个小孩子的头二十分钟，它也会烦的。\n14、如果你想和一只猫建立良好的关系，在它出生起，每天都这样抚摸它五分钟以上，它才会变得比较亲人。\n15、猫咪各种叫声意味着什么。这个环节戴医生让我们听了很多种不用猫咪的叫声。除了我们熟悉的呼噜声表示舒服，“么额”声仅仅是喉头摩擦，长卷舌喵呜声是母猫呼唤小猫……猫咪看见小鸟时发出的吱吱声，表示它想立刻出去，捕捉那只小鸟。</text>
+  </view>
+</view>

@@ -1,0 +1,9 @@
+<view class="container">
+  <text class="successTip">恭喜你成功领养小兔～咕</text>
+  <view catchtap="right" class="agreeButton">
+    <text class="agreeTip">开始照顾</text>
+  </view>
+  <view catchtap="wrong" class="disagreeButton">
+    <text class="disagreeTip">我不想养了</text>
+  </view>
+</view>

@@ -1,0 +1,71 @@
+/* pages/post/post.wxss */
+swiper{
+  width: 100%;
+  height: 900rpx;
+}
+swiper image{
+  width: 100%;
+  height: 900rpx;
+}
+.container2{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #80e1f3;
+}
+page{
+  background-color: #80e1f3;
+}
+.cat{
+  margin-top: 120rpx;
+  font-size: 45rpx;
+  text-align: center;
+  font-weight: bold;
+  color: #ffffff
+}
+.dog{
+  margin-top: 120rpx;
+  font-size: 45rpx;
+  text-align: center;
+  font-weight: bold;
+  color: #ffffff
+}
+.mouse{
+  margin-top: 120rpx;
+  font-size: 45rpx;
+  text-align: center;
+  font-weight: bold;
+  color: #ffffff
+}
+.robbit{
+  margin-top: 120rpx;
+  font-size: 45rpx;
+  text-align: center;
+  font-weight: bold;
+  color: #ffffff
+}
+.containerPicture{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+.buttonTip{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.buttonTip-container{
+  margin-top: 60rpx;
+  border: 1px solid #ffffff;
+  width:370rpx;
+  height:85rpx;
+  border-radius: 10px;
+  text-align: center;
+}
+.buttonTip-text{
+  margin-top: 150rpx;
+  font-size: 35rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+  color: #ffffff;
+}

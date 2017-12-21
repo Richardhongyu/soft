@@ -1,0 +1,15 @@
+<view class="catFeature">
+  <text class="catName">小猫</text>
+  <image class="catPicture" src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/nY5s83V39w9nADWyK54ksD8yviStHkviZQcjJpYY804!/r/dPIAAAAAAAAA"></image>
+  <text class="catTip">听好了哦</text>
+  <view class="catSkill-container">
+    <text class="catSkill1">①、我喜欢你的抚摸，这样我的经验值会很快提高</text>
+    <text class="catSkill2">②、定期给我保暖和晒太阳，我也会悄悄长大的哦</text>
+    <text class="catSkill3">③、我讨厌水，千万不要让我淋雨，那样我会生病</text>
+    <text class="catSkill4">④、当我的经验值足够高时，我就长大了</text>
+  </view>
+  <view catchtap="catChoose"class="catchooseButton">
+    <text class="catbuttonText">点我领养</text>
+  </view>
+  <text catchtap="catQuit" class="quitCat">狠心拒绝</text>
+</view>

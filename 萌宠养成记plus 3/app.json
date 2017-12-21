@@ -1,0 +1,53 @@
+{
+"pages":[ 
+    "pages/welcome/welcome",
+    "pages/catintroduce/catintroduce",
+    "pages/robbitexperience/robbitexperience",
+    "pages/mouseexperience/mouseexperience",
+    "pages/dogexperience/dogexperience",
+    "pages/catexperience/catexperience",
+    "pages/catdialogue/catdialogue",  
+    "pages/robbitcare/robbitcare",
+    "pages/mousecare/mousecare",
+    "pages/dogcare/dogcare",
+    "pages/catcare/catcare",
+    "pages/post/post",
+    "pages/robbit/robbit",
+    "pages/mouse/mouse",
+    "pages/dog/dog",
+    "pages/cat/cat"
+    
+  ],
+  "window":{
+    "navigationBarBackgroundColor":"#80e1f3",
+    "navigationBarTitleText":"萌宠养成记",
+    "enablePullDownRefresh": true
+  },
+    "tabBar": {
+      "borderStyle": "white",
+      "selectedColor": "#4A6141",
+      "color": "#333",
+      "backgroundColor": "#9e9e9b",
+      "position": "bottom",
+      "list": [
+        {
+          "pagePath": "pages/catexperience/catexperience",
+          "text": "照顾",
+          "iconPath": "image/icon/cat.png",
+          "selectedIconPath": "/image/icon/cat.png"
+        },
+        {
+          "pagePath": "pages/catdialogue/catdialogue",
+          "text": "聊天",
+          "iconPath": "image/icon/full.png",
+          "selectedIconPath": "image/icon/empty.png"
+        },
+        {
+          "pagePath":"pages/catintroduce/catintroduce",
+          "text":"建议",
+          "iconPath":"image/icon/tip.png",
+          "selectedIconPath": "image/icon/tip.png"
+        }
+      ]}
+    
+}

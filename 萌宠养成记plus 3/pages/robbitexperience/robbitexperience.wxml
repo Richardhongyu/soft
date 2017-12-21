@@ -1,0 +1,51 @@
+<view class="container">
+  <view class="avatarcontainer">
+    <image class="avatar"src="http://r.photo.store.qq.com/psb?/V13GeuK60J784F/e57hBlMlGpV9.VM8mgtq5qbryXGn7nssF8xOaAMSMEk!/r/dPMAAAAAAAAA"></image>
+  <!--</view>
+    <text class="tip">经验值</text>
+    <!--<view class="experienceContainer">
+      <image class="experience"src="/image/experience/experience.jpg"></image>
+      <text class="num">{{num}}</text>
+    </view>
+    <progress class="experenceProgress"
+      percent='20'
+      show-info='ture
+      stroke-width='40'
+      color='pink'
+      active='ture'/>-->
+  <view class="levelcontainer">
+    <text class="leveltip">等级LV：</text>
+    <!--<text class="level">LV：</text>-->
+    <text class="levelnum">{{levelq}}</text>
+  </view>
+  </view>
+  <text class="tip">经验值</text>
+  <text class="percentabove">{{exper}}</text>
+  <text class="line">———————————</text>
+  <text class="percentunder">10000</text>
+</view>
+<progress class="progress"
+  percent='{{exper/100}}'
+  show-info='ture'
+  stroke-width='30'
+  color='black'
+  active='ture'/>
+     <!-- <view class="leveltip">{{light.datapoints[0].value}}</view>  -->
+<view class="container1">
+  <view class="tempcontainer">
+    <view>温度</view>
+    <view >{{temp}}</view>
+  </view>
+  <view class="lighcontainer">
+    <view>光强</view>
+    <view >{{light}}</view>
+  </view>
+    <view class="humlcontainer">
+    <view >湿度</view>
+    <view>{{huml}}</view>
+  </view>
+  <view class="buttcontainer">
+    <view >爱抚值</view>
+    <view >{{button}}</view>
+  </view>
+</view> 

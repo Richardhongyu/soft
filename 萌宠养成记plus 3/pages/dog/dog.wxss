@@ -1,0 +1,80 @@
+/* pages/cat/cat.wxss */
+.dogFeature{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #80e1f3;
+}
+.dogName{
+  margin-top: 0rpx;
+  font-size: 55rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.dogPicture{
+  margin-top: 5rpx;
+  width: 360rpx;
+  height: 450rpx;
+}
+.dogTip{
+  margin-top: 5rpx;
+  font-size: 40rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.dogSkill-container{
+  margin-top: 20rpx;
+  border: 2px solid #ffffff;
+  width:700rpx;
+  height:240rpx;
+  border-radius: 10px;
+  text-align: left;
+}
+.dogSkill1{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.dogSkill2{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.dogSkill3{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.dogSkill4{
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.dogchooseButton{
+  margin-top: 28rpx;
+  border: 5px solid #ffffff;
+  width:150rpx;
+  height:150rpx;
+  border-radius: 100%;
+  text-align: center;
+}
+.dogbuttonText{
+  line-height: 140rpx;
+  font-size: 34rpx;
+  font-weight: bold;
+  color: #ffffff;
+}
+.quitDog{
+  color: #000000;
+  font-size: 26rpx;
+  margin-top: 5rpx;
+  text-decoration: underline;
+  font-weight: bold;
+}
+page{
+  background-color: #80e1f3;
+}
